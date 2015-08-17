@@ -1,0 +1,3 @@
+post_install() {
+  echo "use java -jar /usr/bin/Rootbeer.jar to compile your code."
+}
